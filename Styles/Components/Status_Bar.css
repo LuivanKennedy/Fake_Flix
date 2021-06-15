@@ -1,0 +1,19 @@
+.Status-Bar {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.Status-Bar__time {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.Status-bar__icons img:not(:last-child) {
+    margin-right: 5px;
+}
