@@ -25,3 +25,7 @@
     text-align: center;
     margin-top: 2px;
 }
+
+.Bottom-Navbar__text--active {
+    color: white
+}
