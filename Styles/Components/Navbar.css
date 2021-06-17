@@ -1,0 +1,16 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+.Navbar__img {
+    width: 20px;
+}
+
+.Navbar__Text {
+    font-size: 17px;
+}
