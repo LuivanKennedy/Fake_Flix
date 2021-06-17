@@ -1,0 +1,39 @@
+.Movie-Home {
+    display: flex;
+    overflow: auto;
+}
+
+.Movie-Home img:not( :last-child) {
+    margin-right: 10px;
+}
+.Movie-Home img:first-child {
+    margin-left: 10px;
+}
+
+.Movie-Home img:last-child {
+    margin-right: 10px;
+}
+
+.movie__img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 103px;
+    height: 161px;  
+}
+
+.movie__img-big {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 154px;
+    height: 251px;  
+}
+
+.movie__img-circle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-shrink: 0;
+    border-radius:50%;
+    object-fit: cover;
+    width: 102px;
+    height: 102px;  
+}
