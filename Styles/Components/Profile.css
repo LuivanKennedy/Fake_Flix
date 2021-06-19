@@ -1,6 +1,7 @@
 .Profile {    
     display: flex;
-    width: 90%;
+    flex-wrap: wrap;
+    width: 150px;
     margin: 0 auto;
     text-align: center;
     justify-content: space-between;
@@ -9,9 +10,12 @@
 .Profile__Img {
     width: 65px;
     height: 60px;
+    margin-top: 15px;
+    text-align: center;
 }
 
 .Profile__Text {
     font-size: 12px;
     margin-top: 5px;
+    margin-bottom: 15px;
 }
