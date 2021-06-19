@@ -1,0 +1,17 @@
+.Profile {    
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.Profile__Img {
+    width: 65px;
+    height: 60px;
+}
+
+.Profile__Text {
+    font-size: 12px;
+    margin-top: 5px;
+}
