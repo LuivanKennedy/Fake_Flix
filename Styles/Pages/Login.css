@@ -1,3 +1,18 @@
 @import '../Utils/Index.css';
 @import '../Components/Status_Bar.css';
 @import '../Components/Profile.css';
+
+.animation {
+    animation-name: Pageload;
+    animation-duration: 1000ms;
+}
+@keyframes Pageload {
+    from {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
