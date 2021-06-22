@@ -1,0 +1,38 @@
+@import '../Utils/Index.css';
+@import '../Components/Status_Bar.css';
+@import '../Components/Play.css';
+@import '../Components/Movie-Home.css';
+@import '../Components/Bottom-Navbar.css';
+@import '../Components/Navbar.css';
+
+.body {
+    position: relative;
+}
+
+.Home-Wallpaper {
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.Play {
+    margin-top: 293px;
+    margin-bottom: 43px;
+}
+
+.title {
+    margin-left: 12px;
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.title--big {
+    margin-left: 12px;
+    font-size: 27px;
+}
+
+.previews {
+    margin-top: 23px;
+    margin-bottom: 28px;
+}
+
