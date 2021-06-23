@@ -3,6 +3,10 @@
     overflow: auto;
 }
 
+.Movie-Home::-webkit-scrollbar {
+    display: none;
+}
+
 .Movie-Home img:not( :last-child) {
     margin-right: 10px;
 }
