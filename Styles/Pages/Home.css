@@ -5,11 +5,12 @@
 @import '../Components/Bottom-Navbar.css';
 @import '../Components/Navbar.css';
 
-.body {
+body {
     position: relative;
 }
 
 .Home-Wallpaper {
+    width: 100%;
     position: absolute;
     top: 0;
     z-index: -1;
