@@ -1,0 +1,10 @@
+@import '../Utils/Index.css';
+@import '../Components/Status_Bar.css';
+@import '../Components/Edit-Navbar.css';
+@import '../Components/Profile.css';
+
+
+.Edit-Navbar {
+    margin-top: 13px;
+}
+
