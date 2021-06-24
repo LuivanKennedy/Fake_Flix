@@ -84,6 +84,23 @@ strong {
             padding-top: 10%;
             margin-left: 40%;
     }
+
+    .Edit-Navbar {
+        display: none;
+    }
+
+    .Profile__Group {
+        display: none;
+    }
+
+    .Logo--small {
+        display: none;
+    }
+
+    .Logo--edit {
+        display: none;
+    }
+
 }
 
 /* Notebook */
@@ -105,5 +122,22 @@ strong {
         margin: 0 auto;
         padding-top: 10%;
         margin-left: 40%;
-}
+    }
+
+    .Edit-Navbar {
+        display: none;
+    }
+    
+    .Profile__Group {
+        display: none;
+    }
+
+    .Logo--small {
+        display: none;
+    }
+
+    .Logo--edit {
+        display: none;
+    }
+
 }
