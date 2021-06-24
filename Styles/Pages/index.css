@@ -1,8 +1,31 @@
 @import '../Utils/Index.css';
 @import '../Components/Status_Bar.css';
-@import '../Components/Bottom-Navbar.css';
-@import '../Components/Navbar.css';
-@import '../Components/Play.css';
-@import '../Components/Movie-Home.css';
-@import '../Components/Search-Movie.css';
-@import '../Components/Search-bar.css';
+@import '../Components/Logo-Netflix.css';
+
+.center {
+    display: flex;
+    height: calc(100vh - 44px);
+    justify-content: center;
+}
+
+
+@media screen and (min-width: 600px) {
+    .Logo {
+        display: none;
+    }
+}
+
+.Logo {
+    animation: load 1500ms ease-out;
+}
+
+@keyframes load {
+    from {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
