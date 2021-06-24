@@ -1,0 +1,12 @@
+@import '../Components/Logo-Netflix.css';
+
+.Edit-Navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+}
+
+.Edit-Navbar__space {
+    width: 24px;
+}
