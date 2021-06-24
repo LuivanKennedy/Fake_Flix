@@ -14,6 +14,10 @@ strong {
     font-family: 'robot', Arial, Helvetica, sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .Content {
     display: block;
 }
