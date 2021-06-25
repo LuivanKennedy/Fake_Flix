@@ -4,6 +4,7 @@
 @import '../Components/Movie-Home.css';
 @import '../Components/Bottom-Navbar.css';
 @import '../Components/Navbar.css';
+@import '../Components/Bottom-cell.css';
 
 body {
     position: relative;

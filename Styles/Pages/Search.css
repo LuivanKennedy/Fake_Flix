@@ -3,6 +3,7 @@
 @import '../Components/Bottom-Navbar.css';
 @import '../Components/Search-Movie.css';
 @import '../Components/Search-bar.css';
+@import '../Components/Bottom-cell.css';
 
 .Title {
     font-weight: 700;
@@ -18,16 +19,4 @@
 .Search-Movie {
     padding-top: 21px;
     padding-bottom: 23px;
-}
-
-.Bottom-Navbar__background {
-    margin-top: 23px;
-    margin-bottom: 4px;
-}
-
-.Bottom__cell {
-    margin-top: 18px;
-    margin-bottom: 10px;
-    margin-left: 126px;
-    margin-right: 126px;
 }
