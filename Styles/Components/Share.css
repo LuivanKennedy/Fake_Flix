@@ -1,0 +1,88 @@
+.Share__background {
+    background-color: #1A1A1A;
+}
+
+.Share {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Share-Title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.Share-Title__img {
+
+}
+
+.Share-Title__main {
+    margin-left: 9px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.Share__Subitle {
+    font-size: 11px;
+    line-height: 18px;
+    margin-bottom: 8px;
+}
+
+.Share__Terms {
+    text-decoration: underline;
+    font-size: 11px;
+    font-weight: 500;
+    color: #c4c4c4;
+    margin-bottom: 11px;
+}
+
+.Share-Copy {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 21px;
+}
+
+.Share-Copy__input {
+    outline: none;
+    border: none;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    width: 218px;
+    font-size: 11px;    
+    height: 37px;
+}
+
+.Share-Copy__input::placeholder {
+    color: white;
+}
+
+.Share-Copy__button {
+    border: none;
+    font-size: 17px;
+    font-weight: 600;
+    width: 95px;
+    height: 37px;
+    border-radius: 2px;
+}
+
+.Share-Social {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.Share-Social__img {
+
+}
+
+.Share-Social__division {
+    height: 41px;
+    width: 1px;
+    background-color: #8c8787;
+}
