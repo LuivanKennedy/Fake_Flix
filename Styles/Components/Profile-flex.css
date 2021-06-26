@@ -1,0 +1,23 @@
+.Profile {    
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+}
+
+.Profile__Group{
+    text-align: center;
+}
+
+.Profile__Img {
+    width: 65px;
+    height: 60px;
+}
+
+.Profile__Img:hover {
+    transform: scale(1.2);
+}
+
+.Profile__Text {
+    font-size: 12px;
+    margin-top: 5px;
+}
