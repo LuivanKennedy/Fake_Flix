@@ -1,0 +1,23 @@
+.Setting {
+    margin-bottom: 81px;
+}
+
+.Setting-Check {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #424242;
+    padding-left: 27px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Setting-Check__text {
+    padding-left: 6px;
+}
+
+.Setting__text {
+    padding-left: 27px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    line-height: 30px;
+}
