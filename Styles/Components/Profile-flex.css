@@ -1,11 +1,12 @@
 .Profile {    
     display: flex;
-    width: 90%;
-    justify-content: space-between;
+    margin-top: 36px;
 }
 
 .Profile__Group{
+    width: 90%;
     text-align: center;
+    justify-content: space-around;
 }
 
 .Profile__Img {
