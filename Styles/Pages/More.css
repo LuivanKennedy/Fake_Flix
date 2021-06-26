@@ -3,6 +3,8 @@
 @import '../Components/Bottom-Navbar.css';
 @import '../Components/Bottom-cell.css';
 @import '../Components/Profile-flex.css';
+@import '../Components/Share.css';
+@import '../Components/Settings.css';
 
 .animation {
     animation-name: Pageload;
@@ -17,4 +19,21 @@
         transform: scale(1);
         opacity: 1;
     }
+}
+
+.Title-Bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    margin-bottom: 2px;
+
+}
+
+.Title-Bottom__Text {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 6px;
+    color: #ffffff81;  
 }
