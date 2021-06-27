@@ -26,3 +26,139 @@
     margin-left: 45px;
     margin-top: 20px;
 }
+
+.Season-Primary__date {
+    width: 90%;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 9px;
+    text-align: left;
+    margin-top: 13px;
+    margin-left: 12px;
+}
+
+.Season-Primary__title {
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 14px;
+    text-align: left;
+    margin-top: 13px;
+    margin-left: 12px;
+}
+
+.Season-Primary__script {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: left;
+    margin-top: 12px;
+    margin-left: 12px;
+    
+}
+
+.Season-Primary__Tags {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 12px;
+}
+
+.Season-Prymary__Tags-text {
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 9px;
+    text-align: left; 
+}
+
+.Season-Prymary__Tags-division {
+    height: 18px;
+    width: 5px;    
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 18px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 8px;
+}
+
+.Season-Secondary {
+    margin: 0 auto;
+    align-items: center;
+}
+
+.Season-Secondary__img {
+    height: 195px;
+    width: 375px;
+    margin-top: 8px;
+}
+
+.Season-Secondary__Button {
+    display: flex;
+}
+
+.Season-Secondary__Button--one {
+    height: 40px;
+    width: 54px;
+    margin-left: 226px;
+    margin-top: 20px;
+}
+.Season-Secondary__Button--two {
+    height: 39.89472961425781px;
+    width: 27.83333396911621px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.Season-Secondary__date {
+    width: 90%;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 9px;
+    text-align: left;
+    margin-top: 13px;
+    margin-left: 12px;
+}
+.Season-Secondary__Title {
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 14px;
+    text-align: left;
+    margin-top: 13px;
+    margin-left: 12px;
+}
+
+.Season-Secondary__script {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: left;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+.Season-Secondary__Tags {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 12px;
+}
+
+.Season-Secondary__Tags-text {
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 9px;
+    text-align: left; 
+}
+
+.Season-Secondary__Tags-division {
+    height: 18px;
+    width: 5px;    
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 18px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 8px;
+}
