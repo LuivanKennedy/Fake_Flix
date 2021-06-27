@@ -1,0 +1,28 @@
+.season {
+    width: 90%;    
+    margin: 0 auto;
+    align-items: center;
+}
+.Season-Primary__img {
+    height: 195px;
+    width: 375px;
+    margin-top: 25px;
+}
+
+.Season-Primary__Button {
+    display: flex;
+}
+
+.Season-Primary__Button--one {
+    height: 40px;
+    width: 54px;
+    margin-left: 226px;
+    margin-top: 20px;
+}
+
+.Season-Primary__Button--two {
+    height: 39.89472961425781px;
+    width: 27.83333396911621px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
