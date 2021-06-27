@@ -61,6 +61,7 @@
     align-items: center;
     text-align: center;
     margin-left: 12px;
+    margin-top: 10px;
 }
 
 .Season-Prymary__Tags-text {
@@ -142,6 +143,7 @@
     text-align: center;
     margin-left: 12px;
     margin-bottom: 8px;
+    margin-top: 10px;
 }
 
 .Season-Secondary__Tags-text {
