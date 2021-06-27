@@ -71,15 +71,14 @@
 }
 
 .Season-Prymary__Tags-division {
-    height: 18px;
-    width: 5px;    
-    font-size: 16px;
-    font-weight: 900;
-    line-height: 18px;
-    border-radius: 15px;
-    margin-left: 3px;
-    margin-right: 3px;
-    margin-bottom: 8px;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    margin-top: 6px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 5px;
+    background-color: #ffffff69;
 }
 
 .Season-Secondary {
@@ -142,6 +141,7 @@
     align-items: center;
     text-align: center;
     margin-left: 12px;
+    margin-bottom: 8px;
 }
 
 .Season-Secondary__Tags-text {
@@ -152,13 +152,12 @@
 }
 
 .Season-Secondary__Tags-division {
-    height: 18px;
-    width: 5px;    
-    font-size: 16px;
-    font-weight: 900;
-    line-height: 18px;
-    border-radius: 15px;
-    margin-left: 3px;
-    margin-right: 3px;
-    margin-bottom: 8px;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    margin-top: 6px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 5px;
+    background-color: #ffffff69;
 }
